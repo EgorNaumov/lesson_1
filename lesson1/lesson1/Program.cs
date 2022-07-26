@@ -1,3 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int a=1;
-Console.WriteLine(a);
+string a="text";
+int b=1;
+bool c=true;
+Console.WriteLine(a,b,c);
